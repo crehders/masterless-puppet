@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash
 
 /usr/bin/logger -i "git pull successfull, doing puppet apply now" -t "puppet-run"
 
